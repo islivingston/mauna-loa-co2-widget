@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T02:09:06.642Z",
+  "generatedAt": "2026-05-11T15:41:19.155Z",
   "sources": {
     "monthly": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.csv",
     "weekly": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_weekly_mlo.txt"
@@ -23,7 +23,7 @@
     "days": 5,
     "oneYearAgo": 430.29,
     "tenYearsAgo": 407.86,
-    "since1800": 149.49
+    "since1800": 149.43
   },
   "rowCounts": {
     "monthly": 818,
