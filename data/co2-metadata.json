@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T01:24:58.669Z",
+  "generatedAt": "2026-05-11T02:09:06.642Z",
   "sources": {
     "monthly": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.csv",
     "weekly": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_weekly_mlo.txt"
