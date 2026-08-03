@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T15:17:47.068Z",
+  "generatedAt": "2026-08-03T15:21:05.810Z",
   "sources": {
     "monthly": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.csv",
     "weekly": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_weekly_mlo.txt"
@@ -17,16 +17,16 @@
   "latestWeekly": {
     "year": 2026,
     "month": 7,
-    "day": 19,
-    "decimal": 2026.5466,
-    "ppm": 428.72,
+    "day": 26,
+    "decimal": 2026.5658,
+    "ppm": 429,
     "days": 5,
-    "oneYearAgo": 427.58,
-    "tenYearsAgo": 403.35,
-    "since1800": 148.83
+    "oneYearAgo": 426.74,
+    "tenYearsAgo": 404.17,
+    "since1800": 149.63
   },
   "rowCounts": {
     "monthly": 820,
-    "weekly": 2703
+    "weekly": 2704
   }
 }
